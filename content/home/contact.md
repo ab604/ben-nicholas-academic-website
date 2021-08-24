@@ -5,25 +5,26 @@ widget: contact
 
 # This file represents a page section.
 headless: true
-
+# Activate this widget? true/false
+active: true
 # Order that this section appears on the page.
 weight: 130
 
 title: Contact
-subtitle:
+<!-- subtitle:
 
-content:
+<!-- content:
   # Automatically link email and phone or display as text?
-  autolink: true
+  autolink: false
   
   # Email form provider
-  form:
-    provider: formspree
-    formspree:
-      id: test
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  # form:
+  #   provider: formspree
+  #   formspree:
+  #     id: test
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: false -->
   
 design:
   columns: '2'

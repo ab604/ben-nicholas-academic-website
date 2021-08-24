@@ -5,7 +5,7 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Ben Nicholas # Website name
-baseurl: 'https://academic-demo.netlify.app/' # Website URL
+baseurl: 'https://ben-nicholas.netlify.app/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
@@ -32,13 +32,13 @@ module:
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+paginate: 5
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
-ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$, "\\.knit\\.md$", "\\.utf8\\.md$"]
 permalinks:
-  event: '/talk/:slug/'
+  #event: '/talk/:slug/'
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
@@ -57,8 +57,8 @@ taxonomies:
   category: categories
   publication_type: publication_types
   author: authors
-markup:
-  _merge: deep
+# markup:
+#  _merge: deep
 related:
   threshold: 80
   includeNewer: true
@@ -68,3 +68,8 @@ related:
       weight: 100
     - name: categories
       weight: 70
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

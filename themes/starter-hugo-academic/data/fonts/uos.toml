@@ -1,0 +1,11 @@
+# Font style metadata
+name = "UoS"
+
+# Optional Google font URL
+google_fonts = "Roboto+Mono:400,700,400italic|Open+Sans"
+
+# Font families
+heading_font = "Open+Sans"
+body_font = "Roboto+Mono"
+nav_font = "Roboto+Mono"
+mono_font = "Roboto+Mono"
