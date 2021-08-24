@@ -31,9 +31,7 @@ headingFontFamily: "sans-serif"
 #twitter: ''
 
 # Contact (edit or remove options as required)
-
 email: bln1[at]soton.ac.uk
-#phone: 888 888 88 88
 address:
   street: Building 85, Life Sciences, University of Southampton
   city: Southampton
@@ -44,27 +42,13 @@ address:
 coordinates:
   latitude: '50.93645'
   longitude: '-1.39534'
-  
-#directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-# #office_hours:
-#   - 'Monday 10:00 to 13:00'
-#   - 'Wednesday 09:00 to 10:00'
-# appointment_url: 'https://calendly.com'
-#contact_links:
-  # - icon: twitter
-  #   icon_pack: fab
-  #   name: DM Me
-  #   link: 'https://twitter.com/Twitter'
-  # - icon: "orcid"
-  #   icon_pack: "ai"
-  #   link: "https://orcid.org/0000-0003-1467-9643"
 
 # Site header
 
 main_menu:
   enable: true
   align: l
-  show_logo: true
+  show_logo: false
   show_language: false
   show_day_night: false
   show_search: false
