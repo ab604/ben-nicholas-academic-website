@@ -5,22 +5,32 @@
     <link>https://ben-nicholas.netlify.app/author/ben-nicholas/</link>
       <atom:link href="https://ben-nicholas.netlify.app/author/ben-nicholas/index.xml" rel="self" type="application/rss+xml" />
     <description>Ben Nicholas</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ben-nicholas.netlify.app/author/ben-nicholas/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://ben-nicholas.netlify.app/media/icon_hud58671a3d903dd307f35a14f4e44a0f0_1551_512x512_fill_lanczos_center_3.png</url>
       <title>Ben Nicholas</title>
       <link>https://ben-nicholas.netlify.app/author/ben-nicholas/</link>
     </image>
     
     <item>
-      <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://ben-nicholas.netlify.app/post/getting-started/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://ben-nicholas.netlify.app/post/getting-started/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
-&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+      <title>Immunopeptidomic analysis of influenza A virus infected human tissues identifies internal proteins as a rich source of HLA ligands</title>
+      <link>https://ben-nicholas.netlify.app/publication/nicholas-immunopeptidomic-2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://ben-nicholas.netlify.app/publication/nicholas-immunopeptidomic-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of the Class I MHC Peptidome Resulting From DNCB Exposure of HaCaT Cells</title>
+      <link>https://ben-nicholas.netlify.app/publication/bailey-characterization-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://ben-nicholas.netlify.app/publication/bailey-characterization-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
+ YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
