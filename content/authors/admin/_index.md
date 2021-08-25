@@ -5,7 +5,7 @@ education:
   - course: PhD Biological Sciences
     institution: Nottingham Trent University
     year: 1998
-  - course: MSc Agricultural Sciences) 
+  - course: MSc Agricultural Sciences 
     institution: Aberystwyth University 
     year: 1993
   - course: BSc Biological sciences
