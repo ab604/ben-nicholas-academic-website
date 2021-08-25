@@ -4,14 +4,14 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Projects
-    url: '#projects'
-    weight: 20
+ # - name: Projects
+  #  url: '#projects'
+   # weight: 20
   - name: CV
     url: '/cv.txt'
     weight: 40
   - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 10
   #- name: Courses
   #  url: courses/

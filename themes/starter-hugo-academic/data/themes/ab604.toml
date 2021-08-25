@@ -2,17 +2,26 @@
 name = "ab604"
 
 # Is theme light or dark?
-light = false
+light = true
 
 # Primary
-primary = "#3CBAC6"
+#primary = "#3CBAC6"
+primary = "#E73238"
 
 # Menu
-menu_primary = "#fff"
-menu_text = "#fff"
-menu_text_active = "#2962ff"
-menu_title = "#2b2b2b"
+#menu_primary = "#fff"
+#menu_text = "#fff"
+#menu_text_active = "#2962ff"
+#menu_title = "#2b2b2b"
 
-# Home sections
-home_section_odd = "hsla(231, 15%, 18%, 1)"
-home_section_even = "hsla(231, 15%, 16%, 1)"
+# Menu
+# Menu background
+menu_primary = "#3CBAC6" 
+menu_text = "#000"
+menu_text_active = "rgb(255, 0, 60)"
+menu_title = "#000"
+
+# Home sections background colours
+background = "#E1E8EC"
+home_section_odd = "#E1E8EC"
+home_section_even = "#E1E8EC"
