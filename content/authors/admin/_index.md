@@ -2,13 +2,13 @@
 bio: My research interests include 
 education:
   courses:
-  - course: PhD (Biological Sciences)
+  - course: PhD Biological Sciences
     institution: Nottingham Trent University
     year: 1998
-  - course: MSc (Agricultural Sciences) 
+  - course: MSc Agricultural Sciences) 
     institution: Aberystwyth University 
-    year: 
-  - course: BSc (Biological sciences)
+    year: 1993
+  - course: BSc Biological sciences
     institution: University of Essex
     year: 1992
 email: ""
